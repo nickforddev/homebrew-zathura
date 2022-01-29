@@ -1,6 +1,7 @@
 # Zathura
 
 Homebrew formulae to install zathura and plugins on Mac OS X
+(+ titlebarless support?)
 
 ## Installation steps
 
