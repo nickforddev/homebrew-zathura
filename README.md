@@ -3,11 +3,13 @@
 Homebrew formulae to install zathura and plugins on Mac OS X
 (+ titlebarless support?)
 
+For those coming for the titlebarless zathura, remember to uninstall and untap your previous zathura installation.
+
 ## Installation steps
 
 ### Tap the repository
 ```
-brew tap zegervdv/zathura
+brew tap obverser/zathura
 ```
 
 ### Install zathura
