@@ -17,6 +17,8 @@ brew tap obverser/zathura
 brew install zathura
 ```
 
+Note: If you are getting errors installing zathura, try using `--HEAD`. This will compile from the latest commit.
+
 ### Install and link one of the two plugins
 
 For poppler:
