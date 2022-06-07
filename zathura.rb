@@ -44,7 +44,7 @@ class Zathura < Formula
   if (topLevelWidget == NULL) {
     return;
   }
-  gtk_window_set_titlebar(GTK_WINDOW(topLevelWidget), false); // Casting GtkWindow to the GtkWidget to fit the function and creating a new (empty) titlebar."
+  gtk_window_set_decorated(GTK_WINDOW(topLevelWidget), false);"
     end
 
     system 'mkdir build'
